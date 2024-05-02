@@ -1,0 +1,81 @@
+clave,descripcion,precio,clasificacion,existencia,existencia_minima,existencia_maxima
+001,Arroz,25.00,Granos,30,10,50
+002,Frijoles,20.50,Granos,25,10,50
+003,Azúcar,18.75,Endulzantes,22,10,50
+004,Sal,12.00,Condimentos,18,10,50
+005,Harina,30.00,Harinas,28,10,50
+006,Aceite,40.75,Aceites,12,10,50
+007,Salsa de tomate,15.75,Condimentos,8,10,50
+008,Café,22.50,Bebidas,35,10,50
+009,Té,17.25,Bebidas,40,10,50
+010,Leche,28.50,Lácteos,10,10,50
+011,Yogur,15.25,Lácteos,5,10,50
+012,Pan,8.00,Panadería,20,10,50
+013,Manzanas,12.50,Frutas,15,10,50
+014,Naranjas,10.75,Frutas,18,10,50
+015,Piñas,25.00,Frutas,22,10,50
+016,Zanahorias,7.50,Verduras,30,10,50
+017,Lechuga,5.25,Verduras,25,10,50
+018,Papas,15.50,Verduras,20,10,50
+019,Tomates,18.75,Verduras,28,10,50
+020,Cereal,20.00,Desayuno,30,10,50
+021,Huevos,16.50,Desayuno,25,10,50
+022,Yogur griego,20.75,Lácteos,18,10,50
+023,Queso,35.00,Lácteos,12,10,50
+024,Mantequilla,22.75,Lácteos,8,10,50
+025,Refresco,15.25,Bebidas,35,10,50
+026,Agua mineral,10.50,Bebidas,40,10,50
+027,Cerveza,28.00,Bebidas,20,10,50
+028,Vino,40.50,Bebidas,15,10,50
+029,Jugo de naranja,18.75,Bebidas,22,10,50
+030,Chocolate,12.00,Snacks,18,10,50
+031,Papas fritas,8.50,Snacks,25,10,50
+032,Galletas,15.75,Snacks,30,10,50
+033,Palomitas de maíz,10.25,Snacks,35,10,50
+034,Chocolate amargo,22.00,Snacks,20,10,50
+035,Pizza,30.75,Alimentos preparados,12,10,50
+036,Hamburguesa,25.50,Alimentos preparados,15,10,50
+037,Sopa instantánea,5.75,Alimentos preparados,18,10,50
+038,Ensalada,18.25,Alimentos preparados,22,10,50
+039,Tortillas de maíz,12.50,Alimentos preparados,28,10,50
+040,Tortillas de harina,14.75,Alimentos preparados,30,10,50
+041,Pañales,40.00,Cuidado del bebé,10,10,50
+042,Toallitas húmedas,8.75,Cuidado del bebé,12,10,50
+043,Jabón líquido,15.25,Cuidado personal,18,10,50
+044,Shampoo,20.50,Cuidado personal,22,10,50
+045,Crema para la piel,25.75,Cuidado personal,25,10,50
+046,Cepillo de dientes,5.25,Cuidado personal,30,10,50
+047,Pasta dental,7.50,Cuidado personal,28,10,50
+048,Rastrillo,10.00,Afeitado,18,10,50
+049,Crema de afeitar,12.75,Afeitado,20,10,50
+050,After shave,15.00,Afeitado,15,10,50
+051,Desodorante,18.25,Cuidado personal,22,10,50
+052,Perfume,30.50,Cuidado personal,25,10,50
+053,Limpiador multiusos,12.25,Limpieza,30,10,50
+054,Detergente,20.75,Limpieza,25,10,50
+055,Cloro,15.00,Limpieza,18,10,50
+056,Jabón en polvo,25.50,Limpieza,22,10,50
+057,Escoba,8.25,Limpieza,28,10,50
+058,Recogedor,5.50,Limpieza,30,10,50
+059,Cepillo para inodoro,10.75,Limpieza,18,10,50
+060,Papel higiénico,12.00,Papel y empaques,20,10,50
+061,Toallas de papel,9.25,Papel y empaques,15,10,50
+062,Bolsas de plástico,7.50,Papel y empaques,22,10,50
+063,Envases de cartón,15.75,Papel y empaques,25,10,50
+064,Cinta adhesiva,3.25,Papel y empaques,30,10,50
+065,Platos desechables,18.50,Papel y empaques,28,10,50
+066,Vasos desechables,10.75,Papel y empaques,30,10,50
+067,Cubiertos desechables,5.00,Papel y empaques,18,10,50
+068,Bolsas de basura,8.25,Limpieza,22,10,50
+069,Barniz,15.50,Pinturas,20,10,50
+070,Pintura acrílica,20.75,Pinturas,25,10,50
+071,Pinceles,10.25,Pinturas,30,10,50
+072,Lienzo,18.00,Pinturas,28,10,50
+073,Tijeras,5.75,Material de oficina,18,10,50
+074,Cinta métrica,8.50,Material de oficina,22,10,50
+075,Lápices,3.75,Material de oficina,25,10,50
+076,Borradores,2.50,Material de oficina,30,10,50
+077,Libretas,7.25,Material de oficina,28,10,50
+078,Grapas,1.75,Material de oficina,30,10,50
+079,Calculadora,12.50,Material de oficina,20,10,50
+080,Escritorio,85.00,Muebles,15,10,50
